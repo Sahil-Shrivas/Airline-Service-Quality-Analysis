@@ -24,7 +24,7 @@ The objective of this project is to analyze airline passenger feedback and extra
 
 * Python
 * Pandas
-* BeautifulSoup
+* Numpy
 * Requests
 * Matplotlib
 * Seaborn
@@ -152,3 +152,4 @@ jupyter notebook
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub.
+
