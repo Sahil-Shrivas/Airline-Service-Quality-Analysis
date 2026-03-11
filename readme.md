@@ -74,7 +74,11 @@ The following visualizations provide insights into airline customer reviews and 
 ---
 
 ### 📌 Review 
-![Review Length Distribution](visualizations/Screenshot 2026-02-17 184731.png).
+![Review Length Distribution](visualizations/review.png).
+
+---
+
+![Review Length Distribution](visualizations/review1.png).
 
 ---
 ### 📌 Review Length Distribution
@@ -156,5 +160,6 @@ jupyter notebook
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub.
+
 
 
