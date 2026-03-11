@@ -73,6 +73,10 @@ The following visualizations provide insights into airline customer reviews and 
 
 ---
 
+### 📌 Review 
+![Review Length Distribution](visualizations/Screenshot 2026-02-17 184731.png).
+
+---
 ### 📌 Review Length Distribution
 
 This graph shows how long customer reviews are and helps understand the level of detail in passenger feedback.
@@ -152,4 +156,5 @@ jupyter notebook
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub.
+
 
